@@ -1,0 +1,6 @@
+{
+  "name": "Vyapaar Tycoon - Business & Economics Simulator",
+  "description": "An interactive business simulation and economics learning game where you build an enterprise from a small stall to a corporation, manage inventory, master supply and demand, and grow your net worth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
